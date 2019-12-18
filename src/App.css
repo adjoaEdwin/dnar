@@ -1,0 +1,76 @@
+.App {
+  text-align: center;
+}
+.ui.secondary.pointing.menu .active.item {
+  border-color: #fdb537!important;
+}
+
+.ui.fluid.container {
+  width: 100%!important;
+   margin-left: 0em!important;
+    margin-right: 0em!important;
+}
+
+.ui.menu .item>img:not(.ui) {
+  width: 70px!important;
+  height: 30px;
+}
+
+.card {
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06)!important;
+}
+
+.description {
+  color:  #1a202c!important;
+  font-weight: 500!important;
+}
+
+.grey-text {
+  color: #718096!important;
+}
+
+.profile-text {
+   margin-bottom: 0.5rem;
+   font-size: 0.8rem;
+   font-weight: 500;
+}
+
+.small-text {
+  font-weight: 100!important;
+  font-size: 0.75rem;
+}
+
+.ui basic table {
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06)!important;
+}
+
+tbody tr:nth-child(even) {
+  background-color: transparent!important;
+}
+
+thead {
+   background-color: #ffffff!important;
+}
+
+.ui.table thead th {
+  font-size: 1rem!important;
+  padding: 1.2rem!important;
+  letter-spacing: 0.02em!important;
+}
+
+.button {
+  padding-right: 0 2rem!important;
+}
+
+tfoot {
+  background-color: #ffffff!important;
+  padding-bottom: 10rem!important;
+}
+
+tfoot tr, thead tr {
+  background: #ffffff!important;
+}
+
+.ui.table tfoot th {
+  padding-top: 100px!important;
+}
